@@ -1,0 +1,8 @@
+* {
+  /* border까지 다 포함한 박스 사이즈 */
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
+}
